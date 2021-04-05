@@ -11,5 +11,4 @@ I'm Murilo Prado, I'm a software engineer who is passionate about backend, mobil
 - 🌱 I've been learning React, React native and Node
 - 👯 I've been looking to collaborate on opensource projects
 - 💬 Ask me about tech, nutrition & workout
-- ⚡ Fun fact: I'm not Batman 
 > :octocat: https://murilokprado.github.io/
