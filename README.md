@@ -8,7 +8,5 @@
 I'm Murilo Prado, I'm a software engineer who is passionate about backend, mobile technologies and open source.
 
 - 🔭 I've been working with Java Spring application
-- 🌱 I've been learning React, React native and Node
-- 👯 I've been looking to collaborate on opensource projects
-- 💬 Ask me about tech, nutrition & workout
+- 💬 Ask me about tech
 > :octocat: https://murilokprado.github.io/
